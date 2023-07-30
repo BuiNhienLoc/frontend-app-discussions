@@ -9,8 +9,10 @@ import itITMessages from './messages/it_IT.json';
 import plMessages from './messages/pl.json';
 import trTRMessages from './messages/tr_TR.json';
 import zhcnMessages from './messages/zh_CN.json';
+import viMessages from './messages/vi.json'
 
 const messages = {
+  vi: viMessages,
   ar: arMessages,
   de: deMessages,
   'es-419': es419Messages,
