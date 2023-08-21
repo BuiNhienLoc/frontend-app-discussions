@@ -1,4 +1,9 @@
 {
+    "header.links.courses": "Khóa học",
+    "header.user.menu.dashboard": "Bảng thông tin",
+    "header.user.menu.profile": "Hồ sơ",
+    "header.user.menu.account.settings": "Tài khoản",
+    "header.user.menu.logout": "Đăng xuất",
     "navigation.course.tabs.label": "Tài liệu khóa học",
     "learn.course.tabs.navigation.overflow.menu": "Nhiều hơn ...",
     "discussions.topics.backAlt": "Quay lại danh sách chủ đề",
